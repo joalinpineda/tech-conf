@@ -59,6 +59,8 @@ footer a{
 }
 .text-conf{
     color: var(--secondary-color) !important;
+    border-radius: 20px;
+    background: linear-gradient(300deg,rgba(37,147,243,0.8533788515406162) 12%, rgba(191,128,191,1) 32%, rgba(251,169,83,1) 49%, rgba(116,17,179,1) 78%);
 }
 .btn-conf{
     background: rgb(37,147,243);
